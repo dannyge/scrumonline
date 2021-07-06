@@ -75,12 +75,12 @@ foreach($templates as $index=>$template)
 <!-- Add your site or application content here -->
 <div class="container-fluid main" ng-view></div>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular-route.min.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular-cookies.min.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular-sanitize.min.js"></script>
-<script src="https://cdn.rawgit.com/showdownjs/showdown/1.8.6/dist/showdown.min.js"></script>
+<script src="https://ajax.loli.net/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script src="https://ajax.loli.net/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+<script src="https://ajax.loli.net/ajax/libs/angularjs/1.6.4/angular-route.min.js"></script>
+<script src="https://ajax.loli.net/ajax/libs/angularjs/1.6.4/angular-cookies.min.js"></script>
+<script src="https://ajax.loli.net/ajax/libs/angularjs/1.6.4/angular-sanitize.min.js"></script>
+<script src="https://cdnjs.loli.net/ajax/libs/showdown/1.8.6showdown.min.js"></script>
 <script src="/js//bootstrap.min.js"></script>
 <script src="/js/J2M.js"></script>
 <script type="text/javascript">
